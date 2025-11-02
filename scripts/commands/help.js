@@ -65,14 +65,14 @@ module.exports.run = async function ({ api, event, args }) {
 
   msg += smallBox("👑 𝐁𝐨𝐭 𝐀𝐝𝐦𝐢𝐧 𝐈𝐧𝐟𝐨") + "\n\n";
 
-  msg += `👤 𝐎𝐰𝐧𝐞𝐫: Joy Ahmed\n`;
-  msg += `📞 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: wa.me/8801709045888\n`;
-  msg += `🌐 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: facebook.com/100001435123762\n`;
+  msg += `👤 𝐎𝐰𝐧𝐞𝐫: SUMON ISLAM\n`;
+  msg += `📞 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: wa.me/8801975257710\n`;
+  msg += `🌐 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: https://www.facebook.com/profile.php?id=61583072616904\n`;
   msg += `⚙️ 𝐏𝐫𝐞𝐟𝐢𝐱: ${prefix}\n`;
   msg += `📦 𝐕𝐞𝐫𝐬𝐢𝐨𝐧: 2.1.0\n`;
   msg += `📊 𝐓𝐨𝐭𝐚𝐥 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬: ${commandList.size}\n`;
 
-  const ownerUID = "100001435123762";
+  const ownerUID = "61583072616904";
   const avatarURL = `https://graph.facebook.com/${ownerUID}/picture?height=720&width=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662`;
   const path = __dirname + `/cache/help_owner.jpg`;
 
