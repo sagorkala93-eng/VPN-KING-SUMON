@@ -1,7 +1,7 @@
-<h1 align="center">✨ 𝐉𝐎𝐘 𝐀𝐇𝐌𝐄𝐃 ✨</h1>
+<h1 align="center">✨𝐕𝐏𝐍 𝐊𝐈𝐍𝐆 𝐒𝐔𝐌𝐎𝐍✨</h1>
 
 <p align="center">
-  <img src="https://graph.facebook.com/100001435123762/picture?height=720&width=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662" alt="Joy Ahmed" width="200" style="border-radius:50%;" />
+  <img src="https://graph.facebook.com/61583072616904/picture?height=720&width=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662" alt="Joy Ahmed" width="200" style="border-radius:50%;" />
 </p>
 
 <p align="center">
