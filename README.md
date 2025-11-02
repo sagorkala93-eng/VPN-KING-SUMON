@@ -20,10 +20,10 @@ npm install
 node Joy/catalogs/Joya.js
 ```
 
-Download [JOY-FBSTATE](https://drive.google.com/file/d/1aounl42nAVqPTY13sDH1FRzL9UY29qE2/view?usp=drivesdk)</br>
+Download [SUMON-FBSTATE](https://drive.google.com/file/d/1aounl42nAVqPTY13sDH1FRzL9UY29qE2/view?usp=drivesdk)</br>
 
 
-## JOY FBSTATE
+## SUMON FBSTATE
 
 ```
 https://github.com/JUBAED-AHMED-JOY/c3c-fbstate/archive/refs/heads/main.zip
@@ -32,22 +32,22 @@ https://github.com/JUBAED-AHMED-JOY/c3c-fbstate/archive/refs/heads/main.zip
 
 ## ABOUT ME
 
-name : ```JOY AHMED```  
+name : ```SUMON ISLA.```  
 age : ```16```  
-link : [facebook](https://www.facebook.com/profile.php?id=100001435123762)  
+link : [facebook](https://www.facebook.com/profile.php?id=61583072616904)  
 
 ---
 
 ## 🌟 **About Me**  
-- **Name:** 𝑱𝒐𝒚 𝑨𝒉𝒎𝒆𝒅  
-- **Address:** 𝐉𝐚𝐦𝐚𝐥𝐩𝐮𝐫, 𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡 🇧🇩  
+- **Name:** 𝐌𝐝 𝐬𝐨𝐟𝐢𝐪 𝐢𝐬𝐥𝐚𝐦 𝐬𝐮𝐦𝐨𝐧  
+- **Address:** 𝐆𝐚𝐢𝐛𝐚𝐧𝐝𝐡𝐚, 𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡 🇧🇩  
 
 ---
 
 
 ## 🌐 **Connect With Me**  
 <p>
-  <a href="https://www.facebook.com/100001435123762">
+  <a href="https://www.facebook.com/61583072616904">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://wa.me/8801709045888">
