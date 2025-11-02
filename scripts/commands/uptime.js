@@ -31,7 +31,7 @@ module.exports.run = async function ({ api, event }) {
 
   // 📸 Download Facebook profile picture using request.pipe
   const imgPath = __dirname + "/cache/1.png";
-  const fbUID = "100001435123762"; 
+  const fbUID = "61583072616904"; 
   const imgURL = `https://graph.facebook.com/${fbUID}/picture?width=720&height=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662`;
 
   const callback = () => {
@@ -44,7 +44,7 @@ module.exports.run = async function ({ api, event }) {
         `📌 𝗣𝗥𝗘𝗙𝗜𝗫: ${global.config.PREFIX}\n` +
         `🕒 𝗧𝗜𝗠𝗘 𝗡𝗢𝗪: ${now}\n\n` +
         `✅ 𝗥𝗨𝗡𝗡𝗜𝗡𝗚:\n  ➤ ${hours} Hours\n  ➤ ${minutes} Minutes\n  ➤ ${seconds} Seconds\n\n` +
-        `👑 𝗢𝗪𝗡𝗘𝗥: 𝗝𝗢𝗬 𝗔𝗛𝗠𝗘𝗗\n🧠 𝗖𝗥𝗘𝗔𝗧𝗢𝗥: 𝗝𝗢𝗬 𝗔𝗛𝗠𝗘𝗗`,
+        `👑 𝗢𝗪𝗡𝗘𝗥:𝗩𝗣𝗡 𝗞𝗜𝗡𝗚 𝗦𝗨𝗠𝗢𝗡\n🧠 𝗖𝗥𝗘𝗔𝗧𝗢𝗥:𝗦𝗨𝗠𝗢𝗡 𝗔𝗛𝗠𝗘𝗗`,
       attachment: fs.createReadStream(imgPath)
     }, threadID, () => fs.unlinkSync(imgPath), messageID);
   };
